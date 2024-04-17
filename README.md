@@ -1,3 +1,7 @@
+### Projeto Next (13.5.3) para testar uma forma de autenticação com next-auth (v4)
+
+Projeto apenas para testes, ainda incompleto, mas servindo de exemplo para começar a realizar autenticações usando o next-auth no `App` router do Next.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,7 +18,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:5050](http://localhost:5050) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
